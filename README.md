@@ -6,7 +6,7 @@ The project showcases basic frontend development using **HTML, CSS, and JavaScri
 ---
 
 ## 🚀 Live Demo
-🔗 https://manojshanigaram.github.io/portfolio-task1/
+🔗 https://manojshanigaram.github.io/FUTURE_FS_01/
 
 (Replace with your actual GitHub Pages link)
 
